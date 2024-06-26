@@ -40,17 +40,6 @@
 
 ---
 
-## Service access
-| Service | External Connection | Desciption |
-| :--- | :----: | :--- |
-| App - React | 443 default | User web interface served by NGINX |
-| API - FastAPI | 443 /api | Fast API instances |
-| Main db - MongoDB | 27017 | Default mongoDB port |
-| Config db - MariaDB | 3306 | Default mariaDB port |
-| SSL Manager - Certbot | local filesystem | The certificates are saved localy |
-
-
----
 
 ## Our Team ✨
 
