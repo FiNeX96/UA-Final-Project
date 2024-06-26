@@ -20,7 +20,25 @@
 
  - You can check our microsite for documentation and everything about this project [here](https://pi-dsd.github.io/microsite/).
 
- - Final grade for this project: 20/20
+
+
+ In this project, i was responsible for the backend development of the application. This included (not only):
+
+ - API Layer design and development, with FastAPI
+ - Data Validation in Python, with Pydantic
+ - Authentication and Authorization, utilizing the OAuth 2.0 protocol to authenticate users in the University's Identity Provider
+ - Document workflow ( saving and managing of dissertation files )
+
+ I also participated in the frontend development, that was done in React, gaining mastery in various frontend tools, such as:
+
+ - Tailwind CSS
+ - DaisyUI
+ - Tanstack Query ( formerly React Query )
+ - Axios ( HTTP Requests )
+ - Zustand ( Data Stores )
+
+
+** Final grade for this project: 20/20 ** 
 
 ---
 
