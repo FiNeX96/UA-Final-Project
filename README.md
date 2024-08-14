@@ -14,7 +14,7 @@
 
  - Dissertações website was developed to enhance the managing of the dissertation season within the DETI department, at University of Aveiro, at the invite of professor [@Diogo Gomes](https://github.com/dgomes)
 
- - The website is (as of this time) running for almost 3 months, being used by DETI and already 2 other departments within the university.
+ - The website has been up since April 2024, being used by DETI and already 2 other departments within the university.
 
  - You can visit it [here](https://dissertacoes.av.it.pt), although only people from the university are able to use it directly
 
